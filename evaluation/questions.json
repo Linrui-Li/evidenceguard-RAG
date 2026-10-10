@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": "Q1",
+    "question": "What are the possible states of weather?",
+    "expected_answer": "sunny, cloudy, rainy",
+    "answerable": true
+  },
+  {
+    "id": "Q2",
+    "question": "What is the purpose of probability in weather prediction?",
+    "expected_answer": "To quantify the likelihood of different weather conditions.",
+    "answerable": true
+  },
+  {
+    "id": "Q3",
+    "question": "Who won the FIFA World Cup in 2022?",
+    "expected_answer": null,
+    "answerable": false
+  },
+  {
+    "id": "Q4",
+    "question": "What is the capital of France?",
+    "expected_answer": null,
+    "answerable": false
+  },
+  {
+    "id": "Q5",
+    "question": "What was the exact temperature in the city on July 15?",
+    "expected_answer": null,
+    "answerable": false
+  },
+  {
+    "id": "Q6",
+    "question": "What is the probability of rain in Sydney tomorrow?",
+    "expected_answer": null,
+    "answerable": false
+  },
+  {
+    "id": "Q7",
+    "question": "Which weather prediction model achieved the highest accuracy in the experiment?",
+    "expected_answer": null,
+    "answerable": false
+  }
+]
